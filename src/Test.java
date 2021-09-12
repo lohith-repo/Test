@@ -17,7 +17,7 @@ public class Test {
         Arrays.sort(inputNumbers);
 
         for(int no:inputNumbers) {
-            System.out.println("The entry is " + no);
+            System.out.println("The sorted entry is " + no);
         }
     }
 }
